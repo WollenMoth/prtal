@@ -1,0 +1,7 @@
+{
+  "vueCompilerOptions": {
+    "target": 2
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
